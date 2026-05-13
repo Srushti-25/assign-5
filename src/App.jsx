@@ -1,4 +1,4 @@
-import useFetch from "./Hooks/UseFetch";
+import useFetch from "./Hooks/Usefetch";
 import "./App.css";
 
 function App() {
